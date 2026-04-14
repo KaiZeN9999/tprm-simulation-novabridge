@@ -10,7 +10,7 @@ Junior GRC Analyst at NovaBridge Financial Services — a fictional fintech oper
 under Indian regulatory frameworks, including RBI Outsourcing Guidelines, the DPDP 
 Act 2023, and PCI-DSS v4.0.
 
-🏢 The Scenario: 
+🏢 ## The Scenario: 
 
 Organization: NovaBridge Financial Services Pvt. Ltd.
 
