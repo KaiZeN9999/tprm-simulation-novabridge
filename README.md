@@ -10,6 +10,20 @@ Junior GRC Analyst at NovaBridge Financial Services — a fictional fintech oper
 under Indian regulatory frameworks, including RBI Outsourcing Guidelines, the DPDP 
 Act 2023, and PCI-DSS v4.0.
 
+🏢 The Scenario: 
+Organization: NovaBridge Financial Services Pvt. Ltd.
+Industry: Fintech / Lending & Payments
+Size: ~1,200 employees, operations in India and UAE
+Regulatory Environment: RBI guidelines, DPDP Act (India), PCI-DSS (for payment processing)
+NovaBridge offers personal loans, merchant payments, and a co-branded credit card product. 
+It relies heavily on third-party vendors for core operations.
+Your Role: Junior GRC Analyst in the Risk & Compliance team, reporting to the Head of GRC — Priya Nair.
+
+🧩 Why TPRM Matters Here
+NovaBridge shares sensitive customer financial data (PAN, Aadhaar, bank statements, transaction history) 
+with several third parties. A vendor breach or failure could trigger regulatory penalties, data leaks, 
+or service outages — all catastrophic for a fintech.
+
 The goal is to build audit-ready TPRM documentation across the full vendor lifecycle — 
 from policy design through incident response — mirroring real-world GRC workflows.
 
