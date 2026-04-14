@@ -12,13 +12,13 @@ Act 2023, and PCI-DSS v4.0.
 
 #### The Scenario: 
 
-Organization: NovaBridge Financial Services Pvt. Ltd.
+- Organization: NovaBridge Financial Services Pvt. Ltd.
 
-Industry: Fintech / Lending & Payments
+- Industry: Fintech / Lending & Payments
 
-Size: ~1,200 employees, operations in India and UAE
+- Size: ~1,200 employees, operations in India and UAE
 
-Regulatory Environment: RBI guidelines, DPDP Act (India), PCI-DSS (for payment processing)
+- Regulatory Environment: RBI guidelines, DPDP Act (India), PCI-DSS (for payment processing)
 
 NovaBridge offers personal loans, merchant payments, and a co-branded credit card product. 
 It relies heavily on third-party vendors for core operations.
