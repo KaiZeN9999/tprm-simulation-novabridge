@@ -11,6 +11,7 @@ under Indian regulatory frameworks, including RBI Outsourcing Guidelines, the DP
 Act 2023, and PCI-DSS v4.0.
 
 🏢 The Scenario: 
+
 Organization: NovaBridge Financial Services Pvt. Ltd.
 Industry: Fintech / Lending & Payments
 Size: ~1,200 employees, operations in India and UAE
