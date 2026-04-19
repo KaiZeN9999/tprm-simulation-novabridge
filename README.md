@@ -39,7 +39,7 @@ from policy design through incident response — mirroring real-world GRC workfl
 | Vendor            | Service                    | Risk Tier |
 |-------------------|----------------------------|-----------|
 | CloudNest Inc.    | Cloud Infrastructure       | Critical  |
-| KYC-Pro Solutions | KYC / Customer Onboarding  | Critical  |
+| KYC-Pro Solutions | KYC / Customer Onboarding  | High      |
 | SwiftMail Corp.   | Email & SMS Communications | High      |
 | TalentBridge HR   | Payroll & HR Processing    | High      |
 | PrintPack Ltd.    | Physical Card Printing     | Low       |
@@ -52,8 +52,8 @@ from policy design through incident response — mirroring real-world GRC workfl
 |--------------------------------|---|---|
 | 1 — Framework Building         | TPRM Policy + Vendor Classification Matrix    | ✅ Complete    |
 | 2 — Vendor Intake & Onboarding | Onboarding Questionnaire + KYC-Pro Assessment | ✅ Complete    |
-| 3 — Risk Assessment            | Vendor Risk Register                          | 🔄 In Progress |
-| 4 — Due Diligence              | Due Diligence Reports                         | 🔲 Upcoming    |
+| 3 — Risk Assessment            | Vendor Risk Register                          | ✅ Complete    |
+| 4 — Due Diligence              | Due Diligence Reports                         | 🔄 In Progress |
 | 5 — Contractual Controls       | Contract Review Checklist                     | 🔲 Upcoming    |
 | 6 — Ongoing Monitoring         | Monitoring Framework                          | 🔲 Upcoming    |
 | 7 — Incident Response          | IR Playbook for Vendor Incidents              | 🔲 Upcoming    |
