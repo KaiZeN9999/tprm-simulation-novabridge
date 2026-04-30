@@ -22,6 +22,7 @@ Act 2023, and PCI-DSS v4.0.
 
 NovaBridge offers personal loans, merchant payments, and a co-branded credit card product. 
 It relies heavily on third-party vendors for core operations.
+
 Your Role: Junior GRC Analyst in the Risk & Compliance team, reporting to the Head of GRC, Priya Nair.
 
 🧩 Why TPRM Matters Here
