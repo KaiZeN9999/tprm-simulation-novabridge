@@ -6,7 +6,7 @@
 ## About This Project
 
 This is a self-directed, hands-on TPRM learning project simulating the role of a 
-Junior GRC Analyst at NovaBridge Financial Services — a fictional fintech operating 
+Junior GRC Analyst at NovaBridge Financial Services, a fictional fintech operating 
 under Indian regulatory frameworks, including RBI Outsourcing Guidelines, the DPDP 
 Act 2023, and PCI-DSS v4.0.
 
@@ -22,15 +22,15 @@ Act 2023, and PCI-DSS v4.0.
 
 NovaBridge offers personal loans, merchant payments, and a co-branded credit card product. 
 It relies heavily on third-party vendors for core operations.
-Your Role: Junior GRC Analyst in the Risk & Compliance team, reporting to the Head of GRC — Priya Nair.
+Your Role: Junior GRC Analyst in the Risk & Compliance team, reporting to the Head of GRC, Priya Nair.
 
 🧩 Why TPRM Matters Here
 NovaBridge shares sensitive customer financial data (PAN, Aadhaar, bank statements, transaction history) 
 with several third parties. A vendor breach or failure could trigger regulatory penalties, data leaks, 
-or service outages — all catastrophic for a fintech.
+or service outages, all catastrophic for a fintech.
 
-The goal is to build audit-ready TPRM documentation across the full vendor lifecycle — 
-from policy design through incident response — mirroring real-world GRC workflows.
+The goal is to build audit-ready TPRM documentation across the full vendor lifecycle - 
+from policy design through incident response, mirroring real-world GRC workflows.
 
 ---
 
@@ -50,21 +50,21 @@ from policy design through incident response — mirroring real-world GRC workfl
 
 | Phase                          | Deliverable | Status |
 |--------------------------------|---|---|
-| 1 — Framework Building         | TPRM Policy + Vendor Classification Matrix    | ✅ Complete    |
-| 2 — Vendor Intake & Onboarding | Onboarding Questionnaire + KYC-Pro Assessment | ✅ Complete    |
-| 3 — Risk Assessment            | Vendor Risk Register                          | ✅ Complete    |
-| 4 — Due Diligence              | Due Diligence Reports                         | 🔄 In Progress |
-| 5 — Contractual Controls       | Contract Review Checklist                     | 🔲 Upcoming    |
-| 6 — Ongoing Monitoring         | Monitoring Framework                          | 🔲 Upcoming    |
-| 7 — Incident Response          | IR Playbook for Vendor Incidents              | 🔲 Upcoming    |
+| 1 - Framework Building         | TPRM Policy + Vendor Classification Matrix    | ✅ Complete    |
+| 2 - Vendor Intake & Onboarding | Onboarding Questionnaire + KYC-Pro Assessment | ✅ Complete    |
+| 3 - Risk Assessment            | Vendor Risk Register                          | ✅ Complete    |
+| 4 - Due Diligence              | Due Diligence Reports                         | 🔄 In Progress |
+| 5 - Contractual Controls       | Contract Review Checklist                     | 🔲 Upcoming    |
+| 6 - Ongoing Monitoring         | Monitoring Framework                          | 🔲 Upcoming    |
+| 7 - Incident Response          | IR Playbook for Vendor Incidents              | 🔲 Upcoming    |
 
 ---
 
 ## Regulatory Alignment
 
-- **RBI Outsourcing Guidelines** — Vendor tiering, due diligence, audit rights, exit strategy
-- **DPDP Act 2023** — Data processor obligations, sub-processor controls, breach notification
-- **PCI-DSS v4.0 Req. 12.8** — Vendor list, written agreements, annual compliance monitoring
+- **RBI Outsourcing Guidelines** - Vendor tiering, due diligence, audit rights, exit strategy
+- **DPDP Act 2023** - Data processor obligations, sub-processor controls, breach notification
+- **PCI-DSS v4.0 Req. 12.8** - Vendor list, written agreements, annual compliance monitoring
 
 ---
 
