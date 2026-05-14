@@ -40,7 +40,7 @@ from policy design through incident response, mirroring real-world GRC workflows
 | Vendor            | Service                    | Risk Tier |
 |-------------------|----------------------------|-----------|
 | CloudNest Inc.    | Cloud Infrastructure       | Critical  |
-| KYC-Pro Solutions | KYC / Customer Onboarding  | High      |
+| KYC-Pro Solutions | KYC / Customer Onboarding  | Critical  |
 | SwiftMail Corp.   | Email & SMS Communications | High      |
 | TalentBridge HR   | Payroll & HR Processing    | High      |
 | PrintPack Ltd.    | Physical Card Printing     | Low       |
